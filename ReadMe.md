@@ -7,6 +7,6 @@ is a simple 3d game made with glut(OpenGL). The game has two levels and one play
 
 
 
-## Player Character:
+## Player theme:
 
 ![](texture/spartan.png)
