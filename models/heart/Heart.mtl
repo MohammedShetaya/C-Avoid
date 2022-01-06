@@ -1,0 +1,8 @@
+newmtl HealthPickup
+Ka 0.5647059 0.5647059 0.5647059
+Kd 0.5647059 0.5647059 0.5647059
+d 1
+Tr 1
+map_Ka HealthPickup.png
+map_Kd HealthPickup.png
+map_d HealthPickup.png
