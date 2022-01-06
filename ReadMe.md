@@ -1,5 +1,6 @@
 ## C-Avoid
-is a simple 3d game made with glut(OpenGL). The game has two levels and one player character that is running to collect as much Gold as possible before the level ends meanwhile trying to avoid the obstacles.
+is a simple 3d game made with C++ language and glut(OpenGL) Library. The game has two levels and one player character that is running to collect coins to increase his score, drinks to increase his trials and trying to avoid the obstacles.
+The game contains many features like sound effects, first and third camera view and light effects.
 
 ## Game View:
 
